@@ -1,9 +1,6 @@
-title: Code Gallery Sample Entry
-description: |
-  Code
-type: module
-categories: Menus and navigation, Galleries, Buttons
-demo_url: https://example.com/demo
-video_url: https://example.com/video
-hubspot_url: https://marketplace.hubspot.com/path/to/listing
-
+title: Instagram Feed Module
+description: |The Instagram Feed module is super simple to set up and allows you to directly access the photos you posted in your Instagram timeline.
+categories: Social, Gallery, Multimedia
+demo_url: https://w.inboundlabs.co/instagram-feed-suf-demo
+video_url: 
+hubspot_url: https://w.inboundlabs.co/startup-framework
